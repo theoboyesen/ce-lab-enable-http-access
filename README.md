@@ -85,18 +85,6 @@ Create a ZIP file named `lab-m2-http-access.zip` containing:
    - `index.js` (your Node.js application)
    - `package.json`
 
-3. **Screenshots** (in `screenshots/` folder):
-   - Security group rules showing HTTP port 80 configuration
-   - Browser showing your working webpage with public IP
-   - Terminal showing Nginx and app running (`systemctl status nginx`)
-   - `curl` output testing the connection
-
-4. **Documentation** (`README.md`):
-   - Step-by-step process you followed
-   - Your public IP address and test URL
-   - Security group ID and rules
-   - Any troubleshooting you encountered
-   - Reflection: Why use Nginx as a reverse proxy?
 
 **File Structure:**
 ```
